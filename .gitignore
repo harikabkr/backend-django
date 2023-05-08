@@ -1,0 +1,7 @@
+__pycache__/
+migratons/
+.DS_Store/
+/chatenv/*
+
+ /.env
+/chatBackendService/.env
